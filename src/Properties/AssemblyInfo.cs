@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Qwan")]
 [assembly: AssemblyProduct("VendingMachine")]
-[assembly: AssemblyCopyright("Copyright © Qwan 2010")]
+[assembly: AssemblyCopyright("Copyright © Qwan 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

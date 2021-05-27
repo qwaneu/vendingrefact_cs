@@ -1,8 +1,9 @@
-src/bin/
-src/obj/
-unittests/bin/
-unittests/obj/
+bin
+obj
 *.suo
 test-results
 *.pidb
 *.userprefs
+.idea
+VendingMachineRefactored.sln.DotSettings.user
+packages

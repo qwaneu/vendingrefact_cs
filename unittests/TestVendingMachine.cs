@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using NUnit.Framework;
-using Vender;
+﻿using NUnit.Framework;
 
 namespace Vender.UnitTests
 {
