@@ -1,6 +1,4 @@
-﻿using NUnit.Framework;
-
-namespace Vender.UnitTests
+﻿namespace Vender.UnitTests
 {
 
 [TestFixture]

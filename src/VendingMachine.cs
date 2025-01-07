@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-
-namespace Vender
+﻿namespace Vender
 {
     public enum Can { none, cola, fanta, sprite, beer };
     public enum Choice { none, cola, fanta, sprite, beer };
@@ -15,7 +9,7 @@ namespace Vender
     {
         private Dictionary<Choice, CanContainer> cans = new Dictionary<Choice, CanContainer>();
         private int payment_method;
-        private Chipknip chipknip;
+        private Chipknip? chipknip;
         private int c = -1;
         private int price;
 
